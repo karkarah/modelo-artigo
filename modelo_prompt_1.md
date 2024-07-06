@@ -1,9 +1,9 @@
 # CHECKLISTGERAR ARTIGOS DE QUALIDADE
 
-[ ] Definir Assunto
-[ ] título chamativo: headline
-[ ] imagem de capa chamativa
-[ ] Blocos do artigo
+#### [ ] Definir Assunto
+#### [ ] título chamativo: headline
+#### [ ] imagem de capa chamativa
+#### [ ] Blocos do artigo
 ## 1.Necessidade da Transformação Digital
 ###  1.1.Competitividade em um Mundo Digital
 ###  1.2.Eficiência Operacional: Reduzindo Custos e Aumentando a Produtividade
@@ -27,5 +27,5 @@
 ###  3.7.Foco no Cliente
 'com relação ao tópico "Como Deve Ocorrer a Transformação Digital"e sub tópicos, escreva um texto, o texto deve instruir o empresariado dos procidementos para iniciar e manter a transformação digital em sua empresa. Deve ensinar boas práticas, citar dicas. Seja Objetivo. Seja Pedagógico. Deve passar informações técnicas porém em linguagem simples como explicando a alguém  que não as domina, explicando para uma pessoa que não conhece de tecnologia mas que conhece sobre gestão de negócios.'
 
-[ ] postar o artigo com um call to action
- 4. conclusão.
+#### [ ] postar o artigo com um call to action
+### 4. conclusão.
