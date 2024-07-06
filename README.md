@@ -4,7 +4,7 @@
 # A Urgência da Transformação Digital: Por que sua Empresa Precisa se Adaptar Agora
 
 Nos últimos anos, a digitalização dos processos produtivos, das vendas, dos serviços e do atendimento ao cliente se tornou uma necessidade imperativa para empresas de todos os setores. A transformação digital não é apenas uma tendência passageira, mas uma evolução inevitável no ambiente de negócios moderno e já é uma realidade para muitas empresas.
-
+![Transformção Digital!](/semDigital.jpeg)
 A atual rotina de trabalho é influenciada por novas tecnologias, que facilitam e otimizam o trabalho e otimizam o tempo dos profissionais.
 
 Conhecer essas novidades e implantá-las é mais uma necessidade para o futuro.
