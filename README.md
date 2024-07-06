@@ -50,7 +50,7 @@ A transformação digital melhora significativamente a capacidade de entender e 
 #### Sustentabilidade do Negócio: Preparação para o Futuro
 
 Investir em transformação digital prepara sua empresa para o futuro. Tecnologias como a análise de dados e a inteligência artificial permitem prever tendências de mercado e adaptar-se rapidamente a mudanças. Isso não só garante a relevância contínua da sua empresa, mas também a torna mais sustentável a longo prazo. Empresas que adotam práticas digitais eficientes conseguem reduzir desperdícios, economizar recursos e operar de maneira mais ecológica, alinhando-se às demandas crescentes por sustentabilidade.
-
+![Transformção Digital!](/cemDigital.jpeg)
 Agora é o momento de abraçar a transformação digital e garantir que sua empresa não apenas sobreviva, mas prospere no cenário competitivo atual.
 
 Para mais dicas e conteúdos sobre como transformar digitalmente sua empresa, siga-nos em nossas redes sociais!
